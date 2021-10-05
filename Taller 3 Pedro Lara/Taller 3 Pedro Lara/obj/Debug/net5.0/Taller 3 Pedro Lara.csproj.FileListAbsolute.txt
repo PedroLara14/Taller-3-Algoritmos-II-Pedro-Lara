@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\bin\Debug\net5.0\Taller 3 Pedro Lara.exe
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\bin\Debug\net5.0\Taller 3 Pedro Lara.deps.json
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\bin\Debug\net5.0\Taller 3 Pedro Lara.runtimeconfig.json
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\bin\Debug\net5.0\Taller 3 Pedro Lara.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\bin\Debug\net5.0\Taller 3 Pedro Lara.dll
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\bin\Debug\net5.0\ref\Taller 3 Pedro Lara.dll
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\bin\Debug\net5.0\Taller 3 Pedro Lara.pdb
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\obj\Debug\net5.0\Taller 3 Pedro Lara.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\obj\Debug\net5.0\Taller 3 Pedro Lara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\obj\Debug\net5.0\Taller 3 Pedro Lara.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\obj\Debug\net5.0\Taller 3 Pedro Lara.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\obj\Debug\net5.0\Taller 3 Pedro Lara.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\obj\Debug\net5.0\Taller 3 Pedro Lara.dll
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\obj\Debug\net5.0\ref\Taller 3 Pedro Lara.dll
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\obj\Debug\net5.0\Taller 3 Pedro Lara.pdb
+C:\Users\Pedro\source\repos\Taller 3 Pedro Lara\Taller 3 Pedro Lara\obj\Debug\net5.0\Taller 3 Pedro Lara.genruntimeconfig.cache
